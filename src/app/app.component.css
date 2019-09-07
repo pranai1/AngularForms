@@ -1,0 +1,16 @@
+.main
+{
+    //border:1px solid red;
+}
+.mat-grid-tile
+{
+   background-color: aqua;
+}
+.example-full-width
+{
+    width:75%;
+}
+form
+{
+    margin-bottom: 100px;
+}
